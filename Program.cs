@@ -1,4 +1,5 @@
-﻿/* ödev1
+﻿ //git add Program.cs git commit -m "deyişiklik" git push
+/* ödev1
 Console.WriteLine("bir sayı gırın \n");
 int sayi = Convert.ToInt32(Console.ReadLine());
 for (int i = 1; i <= 10; i++)
