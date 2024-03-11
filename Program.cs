@@ -56,18 +56,22 @@ for (int i = 0; i < genislik; i++)
     Console.WriteLine("");
 }*/
 
-Console.WriteLine("bir sayı gırın");
-int x = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("bir genişlik girin");
 int genislik = Convert.ToInt32(Console.ReadLine());
+
 int genişlikkopya = genislik ;
+
 for (int i = 0; i < genislik; i++)
 {
+    for (int j = genislik; j < genişlikkopya; j-=1)
+    {
+        Console.Write(" ");
+    }
     for (int j = 0; j < genişlikkopya; j++)
     {
-        Console.Write(x);
+        Console.Write("*");
     }
-    genişlikkopya -=4;
+    genişlikkopya--;
     Console.WriteLine("");
 }
