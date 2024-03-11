@@ -1,0 +1,15 @@
+C:\Users\Lab 01\Desktop\for.cs\bin\Debug\net8.0\for.cs.exe
+C:\Users\Lab 01\Desktop\for.cs\bin\Debug\net8.0\for.cs.deps.json
+C:\Users\Lab 01\Desktop\for.cs\bin\Debug\net8.0\for.cs.runtimeconfig.json
+C:\Users\Lab 01\Desktop\for.cs\bin\Debug\net8.0\for.cs.dll
+C:\Users\Lab 01\Desktop\for.cs\bin\Debug\net8.0\for.cs.pdb
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.AssemblyInfoInputs.cache
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.AssemblyInfo.cs
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.csproj.CoreCompileInputs.cache
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.dll
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\refint\for.cs.dll
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.pdb
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.genruntimeconfig.cache
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\ref\for.cs.dll
+C:\Users\Lab 01\Desktop\for.cs\obj\Debug\net8.0\for.cs.sourcelink.json
