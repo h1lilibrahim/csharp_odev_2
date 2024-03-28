@@ -56,22 +56,42 @@ for (int i = 0; i < genislik; i++)
     Console.WriteLine("");
 }*/
 
-
+/*ödev5
 Console.WriteLine("bir genişlik girin");
 int genislik = Convert.ToInt32(Console.ReadLine());
 
-int genişlikkopya = genislik ;
-
 for (int i = 0; i < genislik; i++)
 {
-    for (int j = genislik; j < genişlikkopya; j-=1)
+    for (int j = 0; j < i; j++)
     {
         Console.Write(" ");
     }
-    for (int j = 0; j < genişlikkopya; j++)
+    for (int k = 0; k < genislik - i ;  k++)
     {
         Console.Write("*");
     }
-    genişlikkopya--;
-    Console.WriteLine("");
+
+    Console.WriteLine();
+}*/
+/*
+string isim = Console.ReadLine();
+
+Console.WriteLine(isim.Length);
+
+for (int x = 1; x <= isim.Length; x++)
+{
+    Console.WriteLine(isim);
+
+    for (int j = 0;j < )
+
+}*/
+string isim = Console.ReadLine();
+
+for (int i = 0; i < isim.Length; i++)
+{
+    for (int a = 0; a <= i; a++)
+    {
+        Console.Write(isim[a]);
+    }
+    Console.WriteLine();
 }
