@@ -5,8 +5,6 @@ int sayi = Convert.ToInt32(Console.ReadLine());
 for (int i = 1; i <= 10; i++)
 {
 Console.WriteLine($" {i} x {sayi}={i*sayi}");
-
-
 }
 */
 
@@ -73,18 +71,8 @@ for (int i = 0; i < genislik; i++)
 
     Console.WriteLine();
 }*/
-/*
-string isim = Console.ReadLine();
 
-Console.WriteLine(isim.Length);
-
-for (int x = 1; x <= isim.Length; x++)
-{
-    Console.WriteLine(isim);
-
-    for (int j = 0;j < )
-
-}*/
+/*ödev6
 string isim = Console.ReadLine();
 
 for (int i = 0; i < isim.Length; i++)
@@ -94,4 +82,4 @@ for (int i = 0; i < isim.Length; i++)
         Console.Write(isim[a]);
     }
     Console.WriteLine();
-}
+}*/
